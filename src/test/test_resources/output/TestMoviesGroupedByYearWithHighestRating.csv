@@ -1,0 +1,5 @@
+Movie_Title,Year,Director,Actors,Rating,Runtime(Mins),Censor,Total_Gross,Main_Genre,Side_Genre
+Kantara,2022,Rishab Shetty,"Rishab Shetty, Sapthami Gowda, Kishore Kumar G., Achyuth Kumar",9.3,148,UA,2900000.0,Action," Adventure,  Drama"
+Day Shift,2022,J.J. Perry,"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo, Meagan Good",9.3,113,A,890000.0,Action," Comedy,  Fantasy"
+Shang-Chi and the Legend of the Ten Rings,2021,Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Chiu-Wai Leung, Ben Kingsley",7.4,132,UA,3450000.0,Action," Adventure,  Fantasy"
+The Croods: A New Age,2020,Joel Crawford,"Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener",6.9,95,UA,5875000.0,Animation," Adventure,  Comedy"

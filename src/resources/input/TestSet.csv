@@ -1,0 +1,8 @@
+Movie_Title,Year,Director,Actors,Rating,Runtime(Mins),Censor,Total_Gross,main_genre,side_genre
+Kantara,2022,Rishab Shetty,"Rishab Shetty, Sapthami Gowda, Kishore Kumar G., Achyuth Kumar",9.3,148,UA,2900000,Action," Adventure,  Drama"
+Shang-Chi and the Legend of the Ten Rings,2021,Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Chiu-Wai Leung, Ben Kingsley",7.4,132,UA,3450000,Action," Adventure,  Fantasy"
+Boss Level,2020,Joe Carnahan,"Frank Grillo, Mel Gibson, Naomi Watts, Michelle Yeoh",6.8,100,Not Rated,1590000,Action," Adventure,  Comedy"
+Dolittle,2020,Stephen Gaghan,"Robert Downey Jr., Antonio Banderas, Michael Sheen, Jim Broadbent",5.6,101,U,770000,Adventure," Comedy,  Family"
+After We Collided,2020,Roger Kumble,"Josephine Langford, Hero Fiennes Tiffin, Dylan Sprouse, Louise Lombard",5,105,18,200000,Drama, Romance
+The Croods: A New Age,2020,Joel Crawford,"Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener",6.9,95,UA,5875000,Animation," Adventure,  Comedy"
+Day Shift,2022,J.J. Perry,"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo, Meagan Good",9.3,113,A,890000,Action," Comedy,  Fantasy"

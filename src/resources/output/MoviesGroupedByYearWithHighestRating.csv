@@ -1,0 +1,121 @@
+Movie_Title,Year,Director,Actors,Rating,Runtime(Mins),Censor,Total_Gross,Main_Genre,Side_Genre
+Kantara,2022,Rishab Shetty,"Rishab Shetty, Sapthami Gowda, Kishore Kumar G., Achyuth Kumar",9.3,148,UA,$0.0M,Action,"Adventure, Drama"
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose, Manikandan K., Rajisha Vijayan",8.9,164,A,$0.0M,Crime,"Drama, Mystery"
+Soorarai Pottru,2020,Sudha Kongara,"Suriya, Achyuth Kumar, Paresh Rawal, Aparna Balamurali",8.7,153,U,$0.0M,Drama,Drama
+Kaithi,2019,Lokesh Kanagaraj,"Karthi, Narain, Arjun Das, George Maryan",8.5,145,UA,$0.0M,Action,"Adventure, Crime"
+Asuran,2019,Vetrimaaran,"Dhanush, Manju Warrier, Prakash Raj, Pasupathy",8.5,141,UA,$0.0M,Action,Drama
+Gisaengchung,2019,Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik",8.5,132,A,$53.37M,Drama,Thriller
+96,2018,C. Prem Kumar,"Vijay Sethupathi, Adithya Bhaskar, Trisha Krishnan, Gouri Kishan",8.5,158,U,$0.0M,Drama,Romance
+Coco,2017,"Directors:Lee Unkrich, Adrian Molina","Anthony Gonzalez, Gael GarcÃ­a Bernal, Benjamin Bratt, Alanna Ubach",8.4,105,U,$209.73M,Animation,"Adventure, Comedy"
+Aynabaji,2016,Amitabh Reza Chowdhury,"Chanchal Chowdhury, Masuma Rahman Nabila, Partha Barua, Lutfur Rahman George",9.0,147,Not Rated,$0.0M,Crime,"Mystery, Thriller"
+Inside Out,2015,"Directors:Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black, Mindy Kaling",8.2,95,U,$356.46M,Animation,"Adventure, Comedy"
+Drishyam,2015,Nishikant Kamat,"Ajay Devgn, Shriya Saran, Tabu, Rajat Kapoor",8.2,163,UA,$0.74M,Crime,"Drama, Mystery"
+Interstellar,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",8.6,169,UA,$188.02M,Adventure,"Drama, Sci-Fi"
+Drishyam,2013,Jeethu Joseph,"Mohanlal, Meena, Asha Sharath, Ansiba",8.3,160,U,$0.0M,Crime,"Drama, Thriller"
+The Dark Knight Rises,2012,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",8.4,164,UA,$448.14M,Action,Drama
+Django Unchained,2012,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",8.4,165,A,$162.81M,Drama,Western
+The Intouchables,2011,"Directors:Olivier Nakache, Ã‰ric Toledano","FranÃ§ois Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",8.5,112,UA,$13.18M,Biography,"Comedy, Drama"
+Inception,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Ken Watanabe",8.8,148,UA,$292.58M,Action,"Adventure, Sci-Fi"
+3 Idiots,2009,Rajkumar Hirani,"Aamir Khan, Madhavan, Mona Singh, Sharman Joshi",8.4,170,UA,$6.53M,Comedy,Drama
+The Dark Knight,2008,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",9.0,152,UA,$534.86M,Action,"Crime, Drama"
+Taare Zameen Par,2007,"Directors:Aamir Khan, Amole Gupte","Darsheel Safary, Aamir Khan, Tisca Chopra, Vipin Sharma",8.4,165,U,$1.22M,Drama,Family
+The Departed,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",8.5,151,A,$132.38M,Crime,"Drama, Thriller"
+The Prestige,2006,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",8.5,130,U,$53.09M,Drama,"Mystery, Sci-Fi"
+V for Vendetta,2005,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea",8.2,132,UA,$70.51M,Action,"Drama, Sci-Fi"
+Batman Begins,2005,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson",8.2,140,UA,$206.85M,Action,"Crime, Drama"
+Babam ve Oglum,2005,Ã‡agan Irmak,"Ã‡etin Tekindor, Fikret Kuskan, HÃ¼meyra, Ege Tanman",8.2,112,Not Rated,$0.0M,Drama,Family
+Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",8.3,108,UA,$34.4M,Drama,"Romance, Sci-Fi"
+The Lord of the Rings: The Return of the King,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",9.0,201,U,$377.85M,Action,"Adventure, Drama"
+The Lord of the Rings: The Two Towers,2002,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",8.8,179,UA,$342.55M,Action,"Adventure, Drama"
+The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",8.8,178,U,$315.54M,Action,"Adventure, Drama"
+Gladiator,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",8.5,155,UA,$187.71M,Action,"Adventure, Drama"
+Fight Club,1999,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier",8.8,139,A,$37.03M,Drama,Drama
+Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",8.6,169,A,$216.54M,Drama,War
+La vita Ã¨ bella,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano",8.6,116,U,$57.6M,Comedy,"Drama, Romance"
+Fargo,1996,"Directors:Joel Coen, Ethan Coen","William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare",8.1,98,A,$24.61M,Crime,Thriller
+Eskiya,1996,Yavuz Turgul,"Sener Sen, Ugur YÃ¼cel, Sermin HÃ¼rmeriÃ§, Yesim Salkim",8.1,128,Not Rated,$0.0M,Crime,"Drama, Thriller"
+Trainspotting,1996,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd",8.1,93,A,$16.5M,Drama,Drama
+Se7en,1995,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",8.6,127,A,$100.13M,Crime,"Drama, Mystery"
+The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",9.3,142,A,$28.34M,Drama,Drama
+Schindler's List,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",9.0,195,A,$96.9M,Biography,"Drama, History"
+Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",8.3,99,15+,$2.83M,Crime,Thriller
+Terminator 2: Judgment Day,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",8.6,137,A,$204.84M,Action,Sci-Fi
+The Silence of the Lambs,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",8.6,118,A,$130.74M,Crime,"Drama, Thriller"
+Goodfellas,1990,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",8.7,145,A,$46.84M,Biography,"Crime, Drama"
+Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott",8.2,127,U,$197.17M,Action,Adventure
+Hotaru no haka,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara",8.5,89,U,$0.0M,Animation,"Drama, War"
+Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli",8.5,155,U,$11.99M,Drama,Romance
+Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin",8.3,116,UA,$46.36M,Drama,War
+Aliens,1986,James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",8.4,137,U,$85.16M,Action,"Adventure, Sci-Fi"
+Back to the Future,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",8.5,116,U,$210.61M,Adventure,"Comedy, Sci-Fi"
+Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",8.4,160,R,$51.97M,Biography,"Drama, Music"
+Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",8.3,131,U,$309.13M,Action,"Adventure, Fantasy"
+Scarface,1983,Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio",8.3,170,A,$45.6M,Crime,Drama
+The Thing,1982,John Carpenter,"Kurt Russell, Wilford Brimley, Keith David, Richard Masur",8.2,109,A,$13.78M,Horror,"Mystery, Sci-Fi"
+Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",8.4,115,A,$248.16M,Action,Adventure
+Das Boot,1981,Wolfgang Petersen,"JÃ¼rgen Prochnow, Herbert GrÃ¶nemeyer, Klaus Wennemann, Hubertus Bengsch",8.4,149,R,$11.49M,Drama,War
+The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",8.7,124,UA,$290.48M,Action,"Adventure, Fantasy"
+Apocalypse Now,1979,Francis Ford Coppola,"Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest",8.5,147,R,$83.47M,Drama,"Mystery, War"
+HÃ¶stsonaten,1978,Ingmar Bergman,"Ingrid Bergman, Liv Ullmann, Lena Nyman, Halvar BjÃ¶rk",8.1,99,U,$0.0M,Drama,Music
+The Deer Hunter,1978,Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale, John Savage",8.1,183,A,$48.98M,Drama,War
+Star Wars,1977,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",8.6,121,U,$322.74M,Action,"Adventure, Fantasy"
+Taxi Driver,1976,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks",8.2,114,A,$28.26M,Crime,Drama
+Hababam Sinifi,1975,Ertem Egilmez,"Kemal Sunal, MÃ¼nir Ã–zkul, Halit AkÃ§atepe, Tarik Akan",9.2,87,Not Rated,$0.0M,Comedy,Drama
+The Godfather Part II,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",9.0,202,A,$57.3M,Crime,Drama
+The Sting,1973,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw, Charles Durning",8.3,129,U,$159.6M,Comedy,"Crime, Drama"
+The Godfather,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan, Diane Keaton",9.2,175,A,$134.97M,Crime,Drama
+A Clockwork Orange,1971,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",8.3,136,A,$6.21M,Crime,Sci-Fi
+Patton,1970,Franklin J. Schaffner,"George C. Scott, Karl Malden, Stephen Young, Michael Strong",7.9,172,U,$61.7M,Biography,"Drama, War"
+Le cercle rouge,1970,Jean-Pierre Melville,"Alain Delon, Bourvil, Gian Maria VolontÃ¨, Yves Montand",7.9,140,Not Rated,$0.37M,Crime,"Drama, Thriller"
+Il conformista,1970,Bernardo Bertolucci,"Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin, Enzo Tarascio",7.9,113,UA,$0.54M,Drama,Drama
+Z,1969,Costa-Gavras,"Yves Montand, Irene Papas, Jean-Louis Trintignant, FranÃ§ois PÃ©rier",8.2,127,M/PG,$0.08M,Crime,"Drama, Thriller"
+Once Upon a Time in the West,1968,Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards",8.5,165,U,$5.32M,Western,Western
+Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman, George Kennedy, Strother Martin, J.D. Cannon",8.1,127,A,$16.22M,Crime,Drama
+"Il buono, il brutto, il cattivo",1966,Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo GiuffrÃ¨",8.8,161,A,$6.1M,Adventure,Western
+Per qualche dollaro in piÃ¹,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria VolontÃ¨, Mara Krupp",8.2,132,U,$15.0M,Western,Western
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",8.4,95,A,$0.28M,Comedy,War
+Tengoku to jigoku,1963,Akira Kurosawa,"ToshirÃ´ Mifune, Yutaka Sada, Tatsuya Nakadai, KyÃ´ko Kagawa",8.4,143,Not Rated,$0.0M,Crime,"Drama, Mystery"
+Seppuku,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, TetsurÃ´ Tanba",8.6,133,Not Rated,$0.0M,Action,"Drama, Mystery"
+Judgment at Nuremberg,1961,Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark, Marlene Dietrich",8.3,179,A,$0.0M,Drama,War
+Psycho,1960,Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles, John Gavin",8.5,109,A,$32.0M,Horror,"Mystery, Thriller"
+North by Northwest,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",8.3,136,U,$13.28M,Action,"Adventure, Mystery"
+Vertigo,1958,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",8.3,128,A,$3.2M,Mystery,"Romance, Thriller"
+12 Angry Men,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",9.0,96,U,$4.36M,Crime,Drama
+The Killing,1956,Stanley Kubrick,"Sterling Hayden, Coleen Gray, Vince Edwards, Jay C. Flippen",8.0,84,Not Rated,$0.0M,Crime,"Drama, Film-Noir"
+Pather Panchali,1955,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee, Chunibala Devi",8.3,125,U,$0.54M,Drama,Drama
+Shichinin no samurai,1954,Akira Kurosawa,"ToshirÃ´ Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki",8.6,207,U,$0.27M,Action,Drama
+TÃ´kyÃ´ monogatari,1953,YasujirÃ´ Ozu,"ChishÃ» RyÃ», Chieko Higashiyama, SÃ´ Yamamura, Setsuko Hara",8.2,136,U,$0.0M,Drama,Drama
+Le salaire de la peur,1953,Henri-Georges Clouzot,"Yves Montand, Charles Vanel, Peter van Eyck, Folco Lulli",8.2,131,U,$0.0M,Adventure,"Drama, Thriller"
+Ikiru,1952,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori, Haruo Tanaka",8.3,143,U,$0.06M,Drama,Drama
+Singin' in the Rain,1952,"Directors:Stanley Donen, Gene Kelly","Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",8.3,103,G,$8.82M,Comedy,"Musical, Romance"
+Ace in the Hole,1951,Billy Wilder,"Kirk Douglas, Jan Sterling, Robert Arthur, Porter Hall",8.1,111,Not Rated,$3.97M,Drama,Film-Noir
+Sunset Blvd.,1950,Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson",8.4,110,Not Rated,$0.0M,Drama,Film-Noir
+White Heat,1949,Raoul Walsh,"James Cagney, Virginia Mayo, Edmond O'Brien, Margaret Wycherly",8.1,114,Not Rated,$0.0M,Action,"Crime, Drama"
+The Third Man,1949,Carol Reed,"Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard",8.1,104,U,$0.45M,Film-Noir,"Mystery, Thriller"
+Ladri di biciclette,1948,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri",8.3,89,U,$0.33M,Drama,Drama
+Out of the Past,1947,Jacques Tourneur,"Robert Mitchum, Jane Greer, Kirk Douglas, Rhonda Fleming",8.0,97,Not Rated,$0.0M,Crime,"Drama, Film-Noir"
+It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell",8.6,130,PG,$0.0M,Drama,"Family, Fantasy"
+Roma cittÃ aperta,1945,Roberto Rossellini,"Anna Magnani, Aldo Fabrizi, Marcello Pagliero, Vito Annichiarico",8.0,103,Not Rated,$0.0M,Drama,"Thriller, War"
+Brief Encounter,1945,David Lean,"Celia Johnson, Trevor Howard, Stanley Holloway, Joyce Carey",8.0,86,U,$0.0M,Drama,Romance
+Double Indemnity,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr",8.3,107,Not Rated,$5.72M,Crime,"Drama, Film-Noir"
+Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",8.5,102,U,$1.02M,Drama,"Romance, War"
+Citizen Kane,1941,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead",8.3,119,UA,$1.59M,Drama,Mystery
+The Great Dictator,1940,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner",8.4,125,Not Rated,$0.29M,Comedy,"Drama, War"
+Gone with the Wind,1939,"Directors:Victor Fleming, George Cukor, Sam Wood","Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil",8.2,238,U,$198.68M,Drama,"Romance, War"
+The Adventures of Robin Hood,1938,"Directors:Michael Curtiz, William Keighley","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains",7.9,102,PG,$3.98M,Action,"Adventure, Romance"
+La Grande Illusion,1937,Jean Renoir,"Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim",8.1,113,Not Rated,$0.17M,Drama,War
+Modern Times,1936,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford",8.5,87,Not Rated,$0.16M,Comedy,"Drama, Romance"
+Bride of Frankenstein,1935,James Whale,"Boris Karloff, Elsa Lanchester, Colin Clive, Valerie Hobson",7.8,75,Not Rated,$4.36M,Drama,"Horror, Sci-Fi"
+A Night at the Opera,1935,"Directors:Sam Wood, Edmund Goulding","Groucho Marx, Chico Marx, Harpo Marx, Kitty Carlisle",7.8,96,Not Rated,$2.54M,Comedy,"Music, Musical"
+It Happened One Night,1934,Frank Capra,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns",8.1,105,Not Rated,$4.36M,Comedy,Romance
+Duck Soup,1933,Leo McCarey,"Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx",7.8,69,Not Rated,$0.0M,Comedy,Musical
+Freaks,1932,Tod Browning,"Wallace Ford, Leila Hyams, Olga Baclanova, Roscoe Ates",7.8,64,Not Rated,$0.63M,Drama,Horror
+City Lights,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee, Harry Myers",8.5,87,G,$0.02M,Comedy,"Drama, Romance"
+All Quiet on the Western Front,1930,Lewis Milestone,"Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy",8.1,152,U,$3.27M,Drama,War
+La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain, AndrÃ© Berley, Maurice Schutz",8.2,110,Not Rated,$0.02M,Biography,"Drama, History"
+Metropolis,1927,Fritz Lang,"Brigitte Helm, Alfred Abel, Gustav FrÃ¶hlich, Rudolf Klein-Rogge",8.3,153,Not Rated,$1.24M,Drama,Sci-Fi
+The General,1926,"Directors:Clyde Bruckman, Buster Keaton","Buster Keaton, Marion Mack, Glen Cavender, Jim Farley",8.2,67,Not Rated,$1.03M,Action,"Adventure, Comedy"
+The Gold Rush,1925,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray, Henry Bergman",8.2,95,Not Rated,$5.45M,Adventure,"Comedy, Drama"
+Sherlock Jr.,1924,Buster Keaton,"Buster Keaton, Kathryn McGuire, Joe Keaton, Erwin Connelly",8.2,45,Not Rated,$0.98M,Action,"Comedy, Romance"
+The Kid,1921,Charles Chaplin,"Charles Chaplin, Edna Purviance, Jackie Coogan, Carl Miller",8.3,68,Not Rated,$5.45M,Comedy,"Drama, Family"
+Das Cabinet des Dr. Caligari,1920,Robert Wiene,"Werner Krauss, Conrad Veidt, Friedrich Feher, Lil Dagover",8.0,76,Not Rated,$0.0M,Horror,"Mystery, Thriller"
