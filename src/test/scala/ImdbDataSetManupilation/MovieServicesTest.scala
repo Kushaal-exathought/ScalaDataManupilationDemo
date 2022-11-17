@@ -1,4 +1,5 @@
-import ImdbDataSetManupilation.{Movie, MoviesReader, MoviesServices}
+package ImdbDataSetManupilation
+
 import org.scalatest.BeforeAndAfter
 import org.scalatest.funsuite.AnyFunSuite
 import org.scalatest.matchers.should.Matchers.convertToAnyShouldWrapper
@@ -9,13 +10,13 @@ import scala.collection.mutable.ListBuffer
 class MovieServicesTest extends AnyFunSuite with BeforeAndAfter{
   var movieBusinessCalculator: MoviesServices = _
   before{
-    val fileName = "/Users/u1130462/Desktop/Scala Code Base/ScalaDataManupilationDemo/src/test/test_resources/input/TestSet.csv";
-    val movies = new MoviesReader(fileName).readMovies();
+    val fileName = "input/TestSet.csv"
+    val movies = new MoviesReader(fileName).readMovies()
     movieBusinessCalculator = new MoviesServices(movies)
   }
   test("Total Number of Movies"){
-    println(movieBusinessCalculator.getTotalNoOfMovies())
-    assert(movieBusinessCalculator.getTotalNoOfMovies() === 7)
+    println(movieBusinessCalculator.getTotalNoOfMovies)
+    assert(movieBusinessCalculator.getTotalNoOfMovies === 7)
   }
   test("Test moviesGroupedByYearWithHighestRating logic"){
     val moviesGroupedByYearWithHighestRating = movieBusinessCalculator.getGroupByYearWithHighestRating()

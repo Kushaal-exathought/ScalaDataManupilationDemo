@@ -1,24 +1,23 @@
 package ImdbDataSetManupilation
 
-import scala.collection.Seq
+import scala.collection.{Seq, mutable}
 import scala.collection.mutable.ListBuffer
-import scala.collection.mutable.Map
 import scala.collection.immutable.ListMap
 import scala.math.Ordered.orderingToOrdered
 
 
 class MoviesServices(val moviesList: Seq[Movie]) {
 
-  var movies = moviesList
+  var movies: Seq[Movie] = moviesList
 
-  def getTotalNoOfMovies(): Int = movies.size
+  def getTotalNoOfMovies: Int = movies.size
 
   def getGroupByYearWithHighestRating(): ListBuffer[Movie] = {
     val groupedMoviesByYear = movies.groupBy(_.year)
-    var finalMoviesListAfterGrouping: ListBuffer[Movie] = ListBuffer[Movie]();
+    var finalMoviesListAfterGrouping: ListBuffer[Movie] = ListBuffer[Movie]()
     groupedMoviesByYear.keys.foreach(key => {
-      val groupedMoviesByRatingPerYear = groupedMoviesByYear(key).groupBy(_.rating);
-      val groupedMoviesListByRatingPerYear = groupedMoviesByRatingPerYear(groupedMoviesByRatingPerYear.keys.max);
+      val groupedMoviesByRatingPerYear = groupedMoviesByYear(key).groupBy(_.rating)
+      val groupedMoviesListByRatingPerYear = groupedMoviesByRatingPerYear(groupedMoviesByRatingPerYear.keys.max)
       finalMoviesListAfterGrouping = finalMoviesListAfterGrouping ++ groupedMoviesListByRatingPerYear.toList
     })
     finalMoviesListAfterGrouping.sortBy(-_.year)
@@ -26,11 +25,11 @@ class MoviesServices(val moviesList: Seq[Movie]) {
 
   def getTotalGrossByMainGenreByYear(): ListMap[(Int, String), String] = {
     val groupedMoviesByYear = movies.groupBy(_.year)
-    val finalMoviesListGroupedByYearAndGenre: Map[(Int, String), String] = Map.empty[(Int, String), String]
+    val finalMoviesListGroupedByYearAndGenre: mutable.Map[(Int, String), String] = mutable.Map.empty[(Int, String), String]
     groupedMoviesByYear.keys.foreach(year => {
       val mainGenreForAParticularYear = groupedMoviesByYear(year).groupBy(_.mainGenre)
       mainGenreForAParticularYear.keys.foreach(genre => {
-        var totalGross: Double = 0.0;
+        var totalGross: Double = 0.0
         mainGenreForAParticularYear(genre).foreach(movie => {
           totalGross += movie.totalGross
         })

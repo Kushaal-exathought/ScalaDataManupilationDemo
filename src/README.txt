@@ -48,10 +48,10 @@ Main.scala ---> in this file the execution starts from main()
 
 Test Cases are written using the scalaTest library:
 
-src/test/scala
+src/test/scala/ImdbDataSetManipulation
 1. MoviesServicesTest
-2. MoviesReaderTest
-3. MoviesWriterTest
+2. ImdbDataSetManupilation.MoviesReaderTest
+3. ImdbDataSetManupilation.MoviesWriterTest
 
 src/test/resources
 is where the input file and output files reside
