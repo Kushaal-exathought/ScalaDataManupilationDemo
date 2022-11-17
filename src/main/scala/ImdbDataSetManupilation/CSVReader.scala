@@ -19,8 +19,8 @@ case class Movie(movieTitle: String,
                  totalGross: Double,
                  mainGenre: String,
                  sideGenre: String
-                ){
-   def formatToString: String = {
+                ) {
+  def formatToString: String = {
     movieTitle + "," + year + "," + director + "," + actors + "," + rating + "," + runtimeInMins + "," + censor + "," + "$" + totalGross + "M" + "," + mainGenre + "," + sideGenre
   }
 }

@@ -19,7 +19,7 @@ class MoviesWriterTest extends AnyFunSuite with BeforeAndAfter {
   // Variable declaration with wildcard Lazy loading
   var movieBusinessCalculator: MoviesServices = _
   var moviesGroupedByYearWithHighestRating: ListBuffer[Movie] = _
-  var finalMoviesListGroupedByYearAndGenre:  ListMap[(Int, String), String] = _
+  var finalMoviesListGroupedByYearAndGenre: ListMap[(Int, String), String] = _
   var movieWriter: MoviesWriter = _
 
   // before running each test cases execute this block of code
@@ -33,7 +33,7 @@ class MoviesWriterTest extends AnyFunSuite with BeforeAndAfter {
     finalMoviesListGroupedByYearAndGenre = movieBusinessCalculator.getTotalGrossByMainGenreByYear()
   }
 
-  test("Test if the data is written into the right files"){
+  test("Test if the data is written into the right files") {
     val statusOfFileWriteOne = writeMoviesToFile(finalMoviesListGroupedByYearAndGenre,
       OUTPUT_DIRECTORY,
       TOTAL_GROSS_BY_GENRE_BY_YEAR,

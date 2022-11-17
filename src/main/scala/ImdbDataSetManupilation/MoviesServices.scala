@@ -1,8 +1,8 @@
 package ImdbDataSetManupilation
 
-import scala.collection.{Seq, mutable}
-import scala.collection.mutable.ListBuffer
 import scala.collection.immutable.ListMap
+import scala.collection.mutable.ListBuffer
+import scala.collection.{Seq, mutable}
 import scala.math.Ordered.orderingToOrdered
 
 
@@ -37,7 +37,7 @@ class MoviesServices(val moviesList: Seq[Movie]) {
         finalMoviesListGroupedByYearAndGenre += ((year -> genre) -> yearGenreTotalGross)
       })
     })
-    ListMap(finalMoviesListGroupedByYearAndGenre.toSeq.sortWith(_._1 > _._1):_*)
+    ListMap(finalMoviesListGroupedByYearAndGenre.toSeq.sortWith(_._1 > _._1): _*)
   }
 
 }

@@ -1,7 +1,5 @@
 package ImdbDataSetManupilation
 
-import org.graalvm.compiler.debug.DiagnosticsOutputDirectory
-
 import java.io.{File, PrintWriter}
 import java.nio.file.{Files, Paths}
 import scala.collection.immutable.ListMap
@@ -40,7 +38,7 @@ class MoviesWriter {
   }
 
   def createoutputDirectory(outputDirectory: String): Unit = {
-    if( !Files.exists(Paths.get(outputDirectory)) )
+    if (!Files.exists(Paths.get(outputDirectory)))
       Files.createDirectory(Paths.get(outputDirectory))
   }
 
