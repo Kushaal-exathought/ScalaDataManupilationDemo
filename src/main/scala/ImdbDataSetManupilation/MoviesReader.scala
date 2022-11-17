@@ -4,10 +4,11 @@ import scala.collection.Seq
 import scala.io.Source
 
 class MoviesReader(val fileName: String) extends CsvReader {
+  val csvRegex = ",(?=([^\"]*\"[^\"]*\")*[^\"]*$)"
   override def readMovies(): Seq[Movie] = {
     for {
       line <- Source.fromResource(fileName).getLines().drop(1).toVector
-      values = line.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)").map(_.trim)
+      values = line.split(csvRegex).map(_.trim)
     } yield Movie(values(0), values(1).toInt, values(2), values(3), values(4).toFloat,
       values(5).toInt, values(6), values(7).toDouble, values(8), values(9))
   }
